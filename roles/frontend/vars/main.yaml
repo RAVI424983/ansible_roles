@@ -1,1 +1,5 @@
 CATALOGUE_HOST: catalogue.ravidevops.site
+USER_HOST: user.ravidevops.site
+CART_HOST: cart.ravidevops.site
+SHIPPING_HOST: shipping.ravidevops.site
+PAYMENT_HOST: payment.ravidevops.site
