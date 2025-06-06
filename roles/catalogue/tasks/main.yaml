@@ -44,7 +44,7 @@
   - name: deploying the code
     tags:
     - deployment
-    import_role:
+    include_role:
       name: common
       tasks_from: deployment    
 
